@@ -11,6 +11,7 @@ namespace ConsoleQuintoGitHub
         static void Main(string[] args)
         {
             Console.Write("Bienvenido a Git Hub");
+            Console.Write("Mensaje 2");
             Console.ReadKey();
         }
     }
